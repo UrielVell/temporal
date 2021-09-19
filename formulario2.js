@@ -12,6 +12,7 @@ btnEnviar1.addEventListener('click', function () {
 });
 
 var emailHelp = document.getElementById('emailHelp');
+
 function cambiarColor(color) {
     emailHelp.style.color = color;
 }
